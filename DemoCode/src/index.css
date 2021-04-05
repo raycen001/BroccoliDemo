@@ -1,0 +1,39 @@
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+.header {
+    background-color: whitesmoke;
+}
+.footer {
+    background-color: whitesmoke;
+    text-align: center;
+}
+.ant-layout-content {
+    height: 70%;
+    background-color: white;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    overflow-y: scroll;
+}
+.ant-layout {
+    height: 100%;
+}
+.title4 {
+    padding-top: 20px;
+}
+.btn {
+    margin-top: 50px;
+}
+.content {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+    vertical-align: middle;
+    padding-bottom: 50px;
+}
+.blankRow {
+    height: 30%;
+    width: 100%;
+}
