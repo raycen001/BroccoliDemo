@@ -12,11 +12,11 @@ Video Download: https://user-images.githubusercontent.com/16203780/113650582-06b
 
 # How to run the code
 
-Deployed app at Tencent SCF(Serverless Cloud Function)
+Deployed app at Tencent SCF(Serverless Cloud Function), so u can visit following link.
 
 https://service-nh3h27u6-1258166938.gz.apigw.tencentcs.com/release/APIGWHtmlDemo-1617631415
 
-Or You can found the local version, because I already convert the react project to a js file, so u can open the page in the browser directly.
+You can found the local page as well. I already convert the react project to a js file, so the page can be viewed in the browser directly.
 ./BroccoliDemo/DemoCode/preivew.html
 
 # Test Case
