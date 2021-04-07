@@ -25,7 +25,7 @@ You can found the local page as well. I already convert the react project to a j
 
 # Deployment
 
-Deploying HTML pages to cloud functions and using API gateway triggers can quickly realize static page hosting and access.
+Deployed HTML pages to cloud functions and using API gateway triggers can quickly realize static page hosting and access.
 ![image](https://user-images.githubusercontent.com/16203780/113650190-64915500-96c2-11eb-976c-2b682f0a5777.png)
 ![image](https://user-images.githubusercontent.com/16203780/113650325-9b676b00-96c2-11eb-83e4-fb15277b5357.png)
 
